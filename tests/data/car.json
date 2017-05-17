@@ -1,0 +1,9 @@
+{
+    "color": "blue",
+    "engine": {
+        "$ref": "engine.json"
+    },
+    "xyz": {
+        "123": "abc"
+    }
+}

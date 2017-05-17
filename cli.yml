@@ -1,0 +1,9 @@
+name: json-dereferencer
+version: "1.0"
+author: duxet <duxetlg@gmail.com>
+about: Dereference JSON files
+args:
+    - input_dir:
+        required: true
+    - output_dir:
+        required: true
